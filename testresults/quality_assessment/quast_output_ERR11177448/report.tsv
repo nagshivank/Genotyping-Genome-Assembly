@@ -1,0 +1,23 @@
+Assembly	assembly_ERR11177448
+# contigs (>= 0 bp)	464
+# contigs (>= 1000 bp)	90
+# contigs (>= 5000 bp)	1
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	346503
+Total length (>= 1000 bp)	142428
+Total length (>= 5000 bp)	5847
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	283
+Largest contig	5847
+Total length	276293
+GC (%)	31.38
+N50	1029
+N90	586
+auN	1308.0
+L50	86
+L90	233
+# N's per 100 kbp	0.00
